@@ -1,0 +1,18 @@
+body {
+  background-color:black;
+  text-align: Center;
+}
+h1{
+  color:aquamarine;
+  border-style:solid;
+  border-width:2px;
+}
+h2 {color:blueviolet;
+  background-color:cyan;
+}
+p{
+ color:aliceblue;
+  border-style:solid;
+  border-width:2px;
+}
+
